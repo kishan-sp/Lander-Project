@@ -29,6 +29,10 @@ pushpak-lander/
     ├── pushpak_gnc_brain_v2.zip
     └── pushpak_gnc_brain_v2_vec_normalize.pkl
 ```
+**Here is my File structure:**
+<img width="529" height="591" alt="image" src="https://github.com/user-attachments/assets/508fe694-ab60-41d8-808f-4384f8967371" />
+If you make changes in the file structure, make sure to change the file paths in the code too.
+
 # Requirements
 1. **Download:** Go to this link: [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
     - Click "Download Build Tools".
